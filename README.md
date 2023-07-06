@@ -1,6 +1,5 @@
 # Laravel travel Api
 
-----------
 
 # Getting started
 
