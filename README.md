@@ -73,11 +73,7 @@ Run the database seeder and you're done
 
     php artisan migrate:refresh
     
-<<<<<<< HEAD
 <!-- ## Docker
-=======
-## Docker
->>>>>>> 5d9cbd00e0022d7c024142a57d78522c1e5ac3a1
 
 To install with [Docker](https://www.docker.com), run following commands:
 
@@ -95,11 +91,7 @@ docker-compose exec php php artisan db:seed
 docker-compose exec php php artisan serve --host=0.0.0.0
 ```
 
-<<<<<<< HEAD
 The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api). -->
-=======
-The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api).
->>>>>>> 5d9cbd00e0022d7c024142a57d78522c1e5ac3a1
 
 ## API Specification
 
@@ -115,7 +107,6 @@ More information regarding the project can be found here https://github.com/goth
 
 ## Dependencies
 
-- [jwt-auth](https://github.com/tymondesigns/jwt-auth) - For authentication using JSON Web Tokens
 - [laravel-cors](https://github.com/barryvdh/laravel-cors) - For handling Cross-Origin Resource Sharing (CORS)
 
 ## Folders
