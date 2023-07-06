@@ -1,4 +1,4 @@
-# ![Laravel travel Api](logo.png)
+# ![Laravel travel Api]
 
 ----------
 
