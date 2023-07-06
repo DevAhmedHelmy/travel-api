@@ -163,10 +163,9 @@ Refer the [api specification](#api-specification) for more info.
  
 # Authentication
  
-This applications uses JSON Web Token (JWT) to handle authentication. The token is passed with each request using the `Authorization` header with `Token` scheme. The JWT authentication middleware handles the validation and authentication of the token. Please check the following sources to learn more about JWT.
+This applications uses Passport to handle authentication. The token is passed with each request using the `Authorization` header with `Token` scheme. The api authentication middleware handles the validation and authentication of the token. Please check the following sources to learn more about Passport.
  
-- https://jwt.io/introduction/
-- https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+- https://laravel.com/docs/10.x/passport
 
 ----------
 
