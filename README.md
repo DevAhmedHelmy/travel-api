@@ -15,7 +15,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd travel-api
 
 Install all the dependencies using composer
 
